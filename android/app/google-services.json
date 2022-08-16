@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316758823934",
+    "project_id": "jobmama-575a1",
+    "storage_bucket": "jobmama-575a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316758823934:android:66712be06feb9401fc26af",
+        "android_client_info": {
+          "package_name": "com.example.job_mama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316758823934-qtff1gimavvti006nsss3ksntdk13qpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4G4lvXenTV8quTuzs_lu0kESsZ1y5eVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316758823934-qtff1gimavvti006nsss3ksntdk13qpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
